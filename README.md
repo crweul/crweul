@@ -1,8 +1,6 @@
 # KY'S GITHUB PAGE ✩
-*most ongoing projects are private, but feel free to take a look at any public ones…*
+*most of my projects are on codeberg…*
 # —
-[killua.nz](https://killua.nz)  
-[kaneki.nz](https://kaneki.nz)  
-[joker.tokyo](https://joker.tokyo)
+[akechi.eu](https://akechi.eu)  
 # —
 > buy me a [kofi](https://ko-fi.com/kylo)~
