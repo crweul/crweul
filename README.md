@@ -1,7 +1,7 @@
 # KY'S GITHUB PAGE ✩
 
 <div align="center">
-<img width="10000" alt="gif" align="center" src="https://images.steamusercontent.com/ugc/15579372491729173374/5C37AD59F88DB49C8EA0C6EC91A86C8F207FCFD5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img width="10000" alt="gif" align="center" src="https://media1.tenor.com/m/bFoaWhmKPncAAAAC/l-lawliet-uzidesire.gif">
 </div>
 
 # About Me
@@ -17,6 +17,6 @@ I’m Ky. For some time I’ve been exploring the Rust programming language, and
 # GitHub Stats
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=crweul&&show_icons=true&theme=graywhite"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=laewliet&&show_icons=true&theme=graywhite"/>
   </a>
   </p>
