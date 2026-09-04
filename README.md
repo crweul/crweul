@@ -1,6 +1,6 @@
 <div align="center">
   
-  <a href="">[![Visits](https://komarev.com/ghpvc/?username=laewliet&style=for-the-badge&color=blueviolet)](https://github.com/laewliet)</a>
+  <a href="">[![Visits](https://komarev.com/ghpvc/?username=laewliet&style=for-the-badge&color=blueviolet)](https://github.com/crweul)</a>
   
 </div>
 <div align="center">
@@ -14,13 +14,13 @@
 
 <div align="center" width="150px">
   
-# Hi, I'm Kylo!
+# Hi, I'm Kaii!
 For some time I’ve been exploring the Rust programming language, and the wide range of linux based operating systems. I love learning how things work under the hood! I also enjoy developing for Mac and iOS. I often find myself caught up in yet another project that initiated through curiosity.
 
 # 
 
 <div align="center">
-<img width="10000" alt="gif" align="center" src="https://images.steamusercontent.com/ugc/15579372491729173374/5C37AD59F88DB49C8EA0C6EC91A86C8F207FCFD5/?imw=630&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+<img width="10000" alt="gif" align="center" src="https://images.steamusercontent.com/ugc/10166114066984354729/B814C6EB291C368589C84B63FBD8DDC34BDED8EE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
 </div>
 
 
